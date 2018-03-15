@@ -1,6 +1,7 @@
 # Quantum Physics
 
 Thermodynamics:
+
 the article has been written for Britannica encyclopedia and published at the url:
 https://www.britannica.com/science/Boltzmann-constant edited and formatted on my behalf by my project co-ordinator Thinley Kalsang Bhutia
 
