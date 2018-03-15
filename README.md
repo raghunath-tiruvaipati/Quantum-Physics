@@ -16,5 +16,12 @@ Cosmology:
 the article has been written for Britannica encyclopedia and published at the url:
 https://www.britannica.com/science/cosmology-astronomy edited and formatted on my behalf by my project co-ordinator Frank H. Shu
 
+Life On Earth:
+the article has been written for Britannica encyclopedia and published at the url:
+https://www.britannica.com/science/life edited and formatted on my behalf by my project co-ordinators : Lynn Margulis Dorion Sagan Carl Sagan
+
+
+
+
 
  
