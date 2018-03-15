@@ -1,4 +1,4 @@
-# Thermodynamics
+# Quantum Physics
 
 Thermodynamics:
 the article has been written for Britannica encyclopedia and published at the url:
