@@ -32,6 +32,9 @@ https://www.britannica.com/science/relativity edited and formatted on my behalf 
 Quantum Computing:
 the article has been written for physlab.lums.edu.pk
 
+Quantum Entanglement & Quantum Tunneling:
+the article has been written for http://www.qi.damtp.cam.ac.uk
+
 
 
 
