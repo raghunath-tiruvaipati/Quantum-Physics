@@ -29,6 +29,9 @@ Relativity:
 the article has been written for Britannica encyclopedia and published at the url:
 https://www.britannica.com/science/relativity edited and formatted on my behalf by my project co-ordinator Sidney Perkowitz
 
+Quantum Computing:
+the article has been written for physlab.lums.edu.pk
+
 
 
 
