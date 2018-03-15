@@ -1,12 +1,20 @@
 # Thermodynamics
 
-Thermodynamics
+Thermodynamics:
 the article has been written for Britannica encyclopedia and published at the url:
-https://www.britannica.com/science/Boltzmann-constant edited on my behalf by my project co-ordinator Thinley Kalsang Bhutia
+https://www.britannica.com/science/Boltzmann-constant edited and formatted on my behalf by my project co-ordinator Thinley Kalsang Bhutia
 
-Information theory
+Information theory:
 the article has been written for Britannica encyclopedia and published at the url:
-https://www.britannica.com/science/information-theory edited on my behalf by my project co-ordinator George Markowsky
+https://www.britannica.com/science/information-theory edited and formatted on my behalf by my project co-ordinator George Markowsky
+
+Genetic Code:
+the article has been written for Britannica encyclopedia and published at the url:
+https://www.britannica.com/science/genetic-code edited and formatted on my behalf by my project co-ordinator Thinley Kalsang Bhutia
+
+Cosmology:
+the article has been written for Britannica encyclopedia and published at the url:
+https://www.britannica.com/science/cosmology-astronomy edited and formatted on my behalf by my project co-ordinator Frank H. Shu
 
 
-
+ 
